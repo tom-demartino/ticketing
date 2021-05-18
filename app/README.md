@@ -1,0 +1,1 @@
+This directory is reserved for front end application files.

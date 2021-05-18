@@ -1,0 +1,1 @@
+This directory contains all documentation for the application; this includes source files, build scripts/artifacts, deployment scripts, and test files/procedures.

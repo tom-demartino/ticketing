@@ -1,0 +1,1 @@
+This directory contains scripts for the project. Most likely will consist of build scripts and deployment scripts.

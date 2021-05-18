@@ -1,0 +1,1 @@
+This directory contains Solidity contracts for the application backend.
