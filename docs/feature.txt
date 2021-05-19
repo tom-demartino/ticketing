@@ -1,0 +1,4 @@
+1. Buy and refund/sell tickets as ERC721 NFTs (example is basketball game).
+2. Feature to purchase images/gifs/videos relating to the game (maybe highlights, etc) and attach to ticket to create a collectible out of the ticket "stub".
+   - The web app will need to somehow display the available artwork for purchase (maybe just links to OpenSea that the owner of the Ticketing contract has ownership of if not sold). User can "buy this image" and is promted to select which ticket to add to. This tells smart contract to remove the URI from the "owner's" ticket (owner can use fake tickets to start maybe? Idk) and adds it retroactively to the buyer's ticket
+   - maybe add another contract which gives contract owner options for adding customization. Maybe randomly select one ticket holder to get a rare/random customization. Maybe one game everyone gets a basic customization. Maybe there's a raffle where the owner collects money to enter...

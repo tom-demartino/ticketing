@@ -1,0 +1,4 @@
+1. Use generic ERC721 token for tickets where max supply and whatnot is controlled from Ticketing contract. I think this makes sense and can work. The info stored in the tickets will be limited to whatever Open Zeppelin provides I think.
+2. Create custom ERC721 NFT for tickets to replace what exists - unique ID's like 1-5000 corresponding to seat numbers
+3. Follow steps here to test in remix: https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-remix/6358
+4. Follow the steps above to deploy to testnet
